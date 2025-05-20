@@ -3,3 +3,6 @@ DiaSafety-CC is an extension of [DiaSafety](https://github.com/thu-coai/DiaSafet
 
 # Acknowledgement
 We are grateful to the authors of DiaSafety for making their dataset available to the public and research community.
+
+# Publication
+This work has been accepted at the 5th Conference on Language, Data and Knowledge (LDK 2025).
