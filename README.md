@@ -8,7 +8,7 @@ The ```/data``` folder contains:<br>
 We have provided the same licence as the original DiaSafety dataset.
 
 # Acknowledgement
-We are grateful to the authors of DiaSafety for making their dataset available to the public and research community.
+We are grateful to the authors of DiaSafety for making their dataset available to the public and research community. We are also grateful to the raters for their selfless contribution to this work.
 
 # Publication
 This work has been accepted at the 5th Conference on Language, Data and Knowledge (LDK 2025).
