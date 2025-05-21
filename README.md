@@ -1,5 +1,5 @@
 # Overview
-DiaSafety-CC is an extension of [DiaSafety](https://github.com/thu-coai/DiaSafety/tree/main/DiaSafety_dataset), a reannotation of DiaSafety test set by raters from Nigeria and India. Reasons as free form text are provided for the choice of labels.<br><br>
+DiaSafety-CC is an extension of [DiaSafety](https://github.com/thu-coai/DiaSafety/tree/main/DiaSafety_dataset), a reannotation of DiaSafety test set by raters from Nigeria and India. Raters provide labels as "Safe" or "Unsafe". Also, reasons are provided for the choice of labels as free-form text.<br><br>
 The ```/data``` folder contains:<br>
 ```diasafety_cc.json``` : extended evaluation set<br>
 ```raters_metadata.json``` : anonymised raters' data
