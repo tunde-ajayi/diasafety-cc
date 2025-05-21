@@ -1,8 +1,8 @@
 # Overview
 DiaSafety-CC is an extension of [DiaSafety](https://github.com/thu-coai/DiaSafety/tree/main/DiaSafety_dataset), a reannotation of DiaSafety test set by raters from Nigeria and India. Reasons as free form text are provided for the choice of labels.
-The ```/data``` folder contains:
-```diasafety-cc.json```: extended evaluation set
-```raters_metadata.json```: anonymised raters' data
+The ```/data``` folder contains:<br>
+```diasafety-cc.json``` : extended evaluation set<br>
+```raters_metadata.json``` : anonymised raters' data
 
 # Notice
 We have provided the same licence as the original DiaSafety dataset.
