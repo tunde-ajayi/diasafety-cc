@@ -11,11 +11,4 @@ We have provided the same licence as the original DiaSafety dataset.
 We are grateful to the authors of DiaSafety for making their dataset available to the public and research community. We are also grateful to the raters for their selfless contribution to this work.
 
 # Citation
-@inproceedings{
-ajayi2025diasafetycc,
-title={DiaSafety-{CC}: Annotating Dialogues with Safety Labels and Reasons for Cross-Cultural Analysis},
-author={Tunde Oluwaseyi Ajayi and Mihael Arcan and Paul Buitelaar},
-booktitle={Fifth Conference on Language, Data and Knowledge},
-year={2025},
-url={https://openreview.net/forum?id=lWihd1Sdyz}
-}
+To be added after the conference.
