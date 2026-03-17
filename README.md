@@ -10,7 +10,7 @@ In order to prevent [data contamination](https://aclanthology.org/2023.emnlp-mai
 
 Use the following steps to decrypt and extract the file. When prompted for password/passphrase, type ```diasafety_cc```:<br>
 
-To **decrypt**, open your terminal, ensure you are in the ```data``` directory, then type the following command:<br>
+To **decrypt**, open your terminal, ensure you are in the directory where the file is, then type the following command to get the .tar.gz file:<br>
 ```gpg --output diasafety_cc.tar.gz --decrypt diasafety_cc.tar.gz.gpg```<br>
 
 To **extract** the file, type the following command:<br>
