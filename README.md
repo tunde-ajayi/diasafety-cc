@@ -11,11 +11,11 @@ In order to prevent [data contamination](https://aclanthology.org/2023.emnlp-mai
 **Note**: The password/passphrase to the encrypted file is **diasafety_cc**
 
 To **decrypt** the .tar.gz.gpg file: 
-* open your terminal, ensure you are in the directory where the file is. 
+* Open your terminal, ensure you are in the directory where the file is. 
 * Type the following command to get the .tar.gz file:<br>
 ```gpg --output diasafety_cc.tar.gz --decrypt diasafety_cc.tar.gz.gpg```<br>
 
-To **extract** the file, type the following command:<br>
+To **extract** the json file, type the following command:<br>
 ```tar -xzf diasafety_cc.tar.gz```<br>
 
 # Notice
