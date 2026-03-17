@@ -7,10 +7,13 @@ Due to privacy concerns, the records in the *raters_metadata.json* file are shuf
 
 # Accessing the annotated data
 In order to prevent [data contamination](https://aclanthology.org/2023.emnlp-main.308.pdf), we encrypt the annotated data. Use the following steps to decrypt and extract the file. When prompted for password/passphrase, type ```diasafety_cc```:<br>
+
 To decrypt, open your terminal, ensure you are in the ```data``` directory, then type the following command:<br>
 ```gpg --output diasafety_cc.tar.gz --decrypt diasafety_cc.tar.gz.gpg```<br>
+
 To extract the file, type the following command:<br>
 ```tar -xzf diasafety_cc.tar.gz```<br>
+
 **Note**: The password/passphrase to the encrypted file is ```diasafety_cc```
 
 # Notice
