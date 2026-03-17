@@ -16,7 +16,7 @@ To **decrypt**, open your terminal, ensure you are in the directory where the fi
 To **extract** the file, type the following command:<br>
 ```tar -xzf diasafety_cc.tar.gz```<br>
 
-**Note**: The password/passphrase to the encrypted file is ```diasafety_cc```
+**Note**: The password/passphrase to the encrypted file is **diasafety_cc**
 
 # Notice
 We provided the same licence as the original DiaSafety dataset.
