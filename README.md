@@ -19,7 +19,7 @@ To **extract** the json file, type the following command:<br>
 ```tar -xzf diasafety_cc.tar.gz```<br>
 
 # Notice
-We provided the same licence as the original DiaSafety dataset.
+We provide the same licence as the original DiaSafety dataset.
 
 # Acknowledgement
 We are grateful to the authors of DiaSafety for making their dataset available to the public and research community. We are also grateful to the raters for their selfless contribution to this work.
